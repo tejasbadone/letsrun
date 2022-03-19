@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Helper Scripts/CharacterSelectScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Helper Scripts/GameplayController.cs" Line="172" Column="34" />
+      <File FileName="Assets/Scripts/Helper Scripts/MapGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Helper Scripts/MyTags.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Obstacle Scripts/ObstacleHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Helper Scripts/OffScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/AnimationEvents.cs" Line="31" Column="3" />
+      <File FileName="Assets/Scripts/Helper Scripts/SoundManager.cs" Line="29" Column="36" />
+      <File FileName="Assets/Scripts/Helper Scripts/MainMenuController.cs" Line="34" Column="42" />
+      <File FileName="Assets/Scripts/Helper Scripts/GameData.cs" Line="11" Column="25" />
+      <File FileName="Assets/Scripts/Helper Scripts/GameManager.cs" Line="32" Column="5" />
+      <File FileName="Assets/Scripts/Helper Scripts/CharacterSelectScript.cs" Line="123" Column="34" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerController.cs" Line="46" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
